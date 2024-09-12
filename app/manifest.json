@@ -1,0 +1,8 @@
+{
+  "name": "Possible Games",
+  "short_name": "PossibleGames",
+  "description": "Possible Games official website",
+  "start_url": "/",
+  "display": "standalone",
+  "lang": "en"
+}
