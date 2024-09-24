@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Index() {
+export default function Page() {
   return (
     <>
-      <p> / </p>
+      <p> home </p>
     </>
   )
 }
